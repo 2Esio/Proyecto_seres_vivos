@@ -23,3 +23,9 @@ i.e La aplicación es compatible desde `Android 4.4` (KitKat) hasta `Android 9.0
 - minSdkVersion = `19`
 - tarjetSdkVersion = `29`
 i.e La aplicación es compatible desde `Android 4.4` (KitKat) hasta `Android 10.0`
+
+### Pez Betta
+- No hay APK
+
+### Niña
+- No hay APK
