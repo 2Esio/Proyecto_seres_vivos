@@ -15,4 +15,5 @@ i.e La aplicación es compatible desde `Android 7.0` (Nougat) hasta `Android 9.0
 - La feature de auto-focus de la camara está desactivado. (Esto puede solucionar el problema de que no enfoque cuando se active)
 - minSdkVersion = `19`
 - tarjetSdkVersion = `28`
+i.e La aplicación es compatible desde `Android 4.4` (KitKat) hasta `Android 9.0` (Pie)
 
